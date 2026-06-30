@@ -25,7 +25,7 @@ A full-stack CGPA calculator and academic analytics platform for students to tra
 
 ## Live Demo
 
-https://cgpa-calculator-livid.vercel.app
+https://cgpa-calculator-website.vercel.app
 
 ## Author
 
